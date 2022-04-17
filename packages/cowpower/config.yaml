@@ -1,0 +1,10 @@
+name: cowpower
+version: 0.0.1
+dependencies: 
+  - xcowsay
+  - udev
+arch: amd64
+description: A udev daemon rule that makes a cow pop up and say "Unlimited power" whenever an AC power source is connected
+post: |
+  #!/bin/bash
+  udevadm control --reload

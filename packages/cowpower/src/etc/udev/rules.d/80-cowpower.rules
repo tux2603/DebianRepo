@@ -1,0 +1,1 @@
+SUBSYSTEM=="power_supply", ATTRS{online}=="1", ATTRS{type}=="Mains", ACTION=="change", RUN+="/usr/local/bin/cowpower"
