@@ -51,7 +51,7 @@ jobs:
           git add repo/dists/stable/Release.gpg
           git add repo/dists/stable/InRelease
 
-          for i in `ls repo/pool/main/binary-amd64`; do
+          for i in `ls repo/pool/main/`; do
             git add $i
           done
 
