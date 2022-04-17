@@ -46,7 +46,7 @@ jobs:
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
           git add repo/dists/ repo/pool/
-          git commit -m "new repo structure"
+          git commit -m "Update repo for build ${{ github.sha }}"
           git push origin main
           git push origin `git subtree split --prefix=repo main --ignore-join --rejoin`:gh-pages --force
 
