@@ -35,7 +35,7 @@ jobs:
       # Get the private signing key from the secret store and add it to gpg's keyring
       - name: Get private key
         run: |
-          export $GNUPGHOME=$GITHUB_WORKSPACE/.gnupg
+          export GNUPGHOME=$GITHUB_WORKSPACE/.gnupg
           mkdir -p $GNUPGHOME
           gpg --import <(echo "${{ secrets.GPG_KEY }}")
         
