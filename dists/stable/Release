@@ -1,0 +1,25 @@
+Origin: tux2603's Repository
+Label: tux2603's Repository
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: A collection of programs made by tux2603
+Date: Sun, 17 Apr 2022 03:09:25 +0000
+MD5Sum:
+ 054610f8fa9906851fe985e518cc3d69              231 Release
+ 48d9a8c9542846d684538bfc9dd051b7              494 main/binary-amd64/Packages
+ 27ed6504583de6e863215ebebdeaac12              383 main/binary-amd64/Packages.gz
+SHA1:
+ f396f66cc3a3d306f828a7ae5a88e591844ea1a9              231 Release
+ 843cfc726530fccaad505f1a2970497dfba662f6              494 main/binary-amd64/Packages
+ 9a3cdd406f6b241c666eb3a802677a9db1ce289d              383 main/binary-amd64/Packages.gz
+SHA256:
+ 4e39b87001c006d8e171860877508f576ac63626074c38a6ff58470fb54e00f4              231 Release
+ 75ab6df96e9e6e3ffdb8a10dccb1689ca2bd2f4ea9e9d7fd4f517ca0ad086e8e              494 main/binary-amd64/Packages
+ 0217e483d9c4bdfebbc2e5a4f16372f36581df3982104e2d192b6174f8759311              383 main/binary-amd64/Packages.gz
+SHA512:
+ 8439e4fa9f15faac24c844280de58d68bb0ca4a6538f70d9345a2187f69636db5c1d8484471d2a36110008b9fc8ff12a13268f4432bd6cea20e7f6a7131addd3              231 Release
+ 9d91c7a47f3f285f8cb5998dfb6a4424b33cb27d6cff335277831a4ca778ee1dbe05208a03ed874fdbd5adaca802f764c79680a2cbc4364ffdfe0beba6719258              494 main/binary-amd64/Packages
+ a781633221f61603084fe75b3236fc70e36d8844ca659071ffdb1ffb2bc34d8b8695903483a8a8f8f64e26a0dad59cb7530c1293e45de43e4dca5852a5e1dc71              383 main/binary-amd64/Packages.gz
