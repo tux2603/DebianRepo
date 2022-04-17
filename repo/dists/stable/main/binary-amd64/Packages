@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: Owen O'Connor <tux2603@gmail.com>
 Depends: xcowsay, udev
 Filename: pool/main/cowpower_0.0.1-1_amd64.deb
-Size: 1340
-MD5sum: 453bc215e743ef6f2d0f1a0f4d9d4d33
-SHA1: 2440322947d6eed82327c27c9087188b7f3133a3
-SHA256: 743b817df95ba72656c5807efb2f6dce89b28c160f3c7332a189f8fbb60cd33c
+Size: 1336
+MD5sum: 2993ff88ed10153914a0c9eee5b21d83
+SHA1: 350f63583d233c02d0bdc84e4008881c190c4c60
+SHA256: 459070a0c0b1ab3d8b0c310a98897cdde075594f57742f0cc0023fd7534dc0d6
 Homepage: https://tux2603.me
 Description: A udev daemon rule that makes a cow pop up and say "Unlimited power" whenever an AC power source is connected
 

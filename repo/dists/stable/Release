@@ -6,20 +6,20 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: A collection of programs made by tux2603
-Date: Sun, 17 Apr 2022 02:57:49 +0000
+Date: Sun, 17 Apr 2022 03:05:01 +0000
 MD5Sum:
- 13d6ec8255de65e5829f5271fa8fe222              231 Release
- 1692b1ef6458437c45c443cb4e2b7dbd              494 main/binary-amd64/Packages
- 99979f1813846326c0879eeab87e18e7              380 main/binary-amd64/Packages.gz
+ ad2456715ceee4a0085cecce97c272ee              231 Release
+ d9cd1c8f4067c3931aa8d54587cfc1ba              494 main/binary-amd64/Packages
+ 1822dc6d2970d644015b11aa42c7c843              381 main/binary-amd64/Packages.gz
 SHA1:
- d9be07f626ae01033c069ab4b752d2c7eed86981              231 Release
- 4c0b4445556ed14302fc46bc5b69ef2a0b4c04c6              494 main/binary-amd64/Packages
- 853bbdae5dd8ee756419171b99a557b07b2c35f2              380 main/binary-amd64/Packages.gz
+ 6eb3baec59acfaab56b7cbcebe3f6dea042fcafc              231 Release
+ ca2e756f0aed2efe0d29fd577c7c35f44b156bed              494 main/binary-amd64/Packages
+ 135fae6a5431f404bba633c7d26baded8e7405fe              381 main/binary-amd64/Packages.gz
 SHA256:
- 7d5ef25c25b56c6df653e1783115d3676fb25a5924cfa0222555bcc01a410473              231 Release
- a66f1b9c2a6a577cc7eb19e46e02c20fff8b8d12bacc9f731530565e720b2011              494 main/binary-amd64/Packages
- f795bf6cb75211249fd983beffa56fac1b15ed5ca99d4d7b55871121c69604e4              380 main/binary-amd64/Packages.gz
+ 4618e48ba9affa7a13c86a5d548218b8d84ad75ccec6eb0635e17ae433dd5d67              231 Release
+ 359f2d68938b5d519ec1d6a8ca7a7479d3f4acd63bb091bafb70119e88a92d3a              494 main/binary-amd64/Packages
+ 14bb87744ba853c81cbdfc3a7dbb841d065f3dd8c301b8e6b50968d62d38b7ab              381 main/binary-amd64/Packages.gz
 SHA512:
- 6e161a2cce9b53a46ca07927a0061e3343385f8b402da16ac670615b153996fab14014e7e9f434076e81c6c1d27cbf4279a415985e38f481a1586063e3e7e30d              231 Release
- 050cff5ff10d7d3ef1d17c885a1a55d3568d8cf35802aaf88dffebef72216ca65696ed0e40006ec56719c7037c06f8d07a47f314d0d5cfec041997acd7a00d81              494 main/binary-amd64/Packages
- 297ded7a49d6fbe400c09bb031e2b2ed8d1a93ff92780a33e6f8c81df747389fa309fad411ab64ac0d8ce5673535a2387417fab284243a91cb90c8e4c53a7e50              380 main/binary-amd64/Packages.gz
+ 4f5d28fce33f18f9981fe4d589cde5bd8c8c244d6233216b96e0b3311a0c8bb36937f157181206343e95fde93530346fe2368b52800a56ae5d8075640ecde8d4              231 Release
+ 20037e980d1c765146216b84240be8ec59d7ca9756a7542d43e1c9c34eb73b612593d75c81e5b3cfe02a0c0152c035db06d8bb5f7f0f703399b1b8c300acc058              494 main/binary-amd64/Packages
+ efc08f91a840feb7c9668487bb725673cde08c4de84c46867a0d250d1c1123cda35eeb75c8848a75afa82eecad505fe1b2bbe8f683e7de30a11c39e7b99cc41a              381 main/binary-amd64/Packages.gz
