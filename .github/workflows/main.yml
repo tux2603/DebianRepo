@@ -43,7 +43,16 @@ jobs:
 
       - name: Add and commit the changes
         run: |
-          git add repo/dists/ repo/pool/
+          git add repo/dists/stable/main/binary-amd64/Packages
+          git add repo/dists/stable/main/binary-amd64/Packages.gz
+          git add repo/dists/stable/Release
+          git add repo/dists/stable/Release.gpg
+          git add repo/dists/stable/InRelease
+          
+          for i in `ls repo/pool/*.deb`; do
+            git add $i
+          done
+
           git commit -m new repo structure
           git push origin main
           git push origin `git subtree split --prefix=repo main --ignore-join --rejoin`:gh-pages --force
