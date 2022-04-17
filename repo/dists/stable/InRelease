@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: tux2603's Repository
+Label: tux2603's Repository
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: A collection of programs made by tux2603
+Date: Sun, 17 Apr 2022 02:54:09 +0000
+MD5Sum:
+ 2d6eb41c7f8dfab54a16310ea0ec5c74              231 Release
+ ec5ee1498ca9311e644fe157df3078fe              494 main/binary-amd64/Packages
+ e6c0e454bf40f61c2f1afc14f772d69f              381 main/binary-amd64/Packages.gz
+SHA1:
+ 32f57dff44bb7811629b6a29d61c4dd1d4e74db2              231 Release
+ 84e7dde0e6338bd180a0329ac25e41f9d0e139c3              494 main/binary-amd64/Packages
+ 0edbb1e403e11b8c2bd10cc8f7193d0940c08eee              381 main/binary-amd64/Packages.gz
+SHA256:
+ 0ccb5b03cd34a8b2df5529ade7e405425b3a8fd6913ac3992b2ca49ef8cf3d6d              231 Release
+ 6074a6ef5d71a042ccee497b31793977794835f8b642eb1e11da17ae71a2fc66              494 main/binary-amd64/Packages
+ d7196966317a11a476684e921d4914fa3d1283133b8086fb54eb2a1ffda861a6              381 main/binary-amd64/Packages.gz
+SHA512:
+ 10830edc5c7ee1140998b6f4ec6ba8d45cf655b61d340a24a85b1294c03ccca3a7070bc05f18ba017da981b0cf40e7e00f846408bb46fda2535ff4614817833b              231 Release
+ 0313cfa21b6877f36bbb3e3199d8154f8fbe198d590ac986f5e8ad1017b0be9a99ab4587ae826d7dc87f52af651680454de22a8a873bc7ae2104d7d2dd6dc3e0              494 main/binary-amd64/Packages
+ 820f3d2cd427f62f584dff11fab8d65cf66b9b4d4ba99d491fe587a2616a994240ffa2ad3b7ada2dd6a2a9743fee0f16618f8534765f264bec2ff8728017bf18              381 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEdqQWnk5wG3Uzh+LGy12AmeUpnwYFAmJbgVEACgkQy12AmeUp
+nwaVTBAA1VYP5ypOZ19yWqd/nzLEdIophCUYhnOt6i6bie9sqMdL1+L/sLIcNmfz
++ZWcVsME0oKvTDYddGmQUqSEQW3zixwV3hhnk5AURuBVeHHQcF4lDh4oH/M2ctQF
+mUjdo3LpIWdL8U6Jdzvz6L18D02E8lrvia85pk1gdDyaKO8MNvJ/k1n8YzqX523A
+zi1qaCEtdptcREZYQ+T4Mnc0iGn0GOFXNAVZ/eWEMLmGgHIMI9UjLGa7TNfdM2Zo
+l4zx7l5TK65v8Zb8al5VHnodoVPqjaONy5sVk45hW8eN8z7xwDc5JD3cWszl4uuA
+puKUWzCoRkCzE43ZD5EQbjTlZdzeFCEQCjgPb0JBB4NohcpkBRQZ0kRyxmcnPI1o
+2MN+unFnFM/l8WvtvXFzduPj6HPXhGF0IkkrQrPxWUkpSDonfyu7bFLunVs+qec3
+ooTTHOOcHyKExuDPeUhwOlBgUHHG5UyVYQfnFOvScssi+XrC7DuFsmP7CGSoDi3m
+tvrestMYAa4cg6vPD/2lyvbJPOiqRMAb44earVobv1U+9fC+ug+TGuzlt1PKYHGV
+38i+6r6LKgK/KDvzJAl4f+62wPKTYgv+mStPGFZesuKaiJozAavTRbgvARa6qKwa
+Ag6F2SyrYE7tBo9s6pypBXcMXUH8MR1UhAYSW1xMS8aXa6PsQMk=
+=lJXh
+-----END PGP SIGNATURE-----
