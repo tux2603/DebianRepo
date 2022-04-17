@@ -43,8 +43,6 @@ jobs:
 
       - name: Add and commit the changes
         run: |
-          pwd
-          ls -laR
           git add repo/dists/stable/main/binary-amd64/Packages
           git add repo/dists/stable/main/binary-amd64/Packages.gz
           git add repo/dists/stable/Release
@@ -52,7 +50,7 @@ jobs:
           git add repo/dists/stable/InRelease
 
           for i in `ls repo/pool/main/`; do
-            git add $i
+            git add repo/pool/main/$i
           done
 
           git commit -m new repo structure
