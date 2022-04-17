@@ -43,6 +43,8 @@ jobs:
 
       - name: Add and commit the changes
         run: |
+          git config user.email "tux2603@gmail.com"
+          git config user.name "GitHub Action Auto Commit"
           git add repo/dists/ repo/pool/
           git commit -m "new repo structure"
           git push origin main
