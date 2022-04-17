@@ -32,15 +32,12 @@ jobs:
       - name: Install build dependencies
         run: pip install PyYAML
 
-      # Get the private signing key from the secret store and add it to gpg's keyring
-      - name: Get private key
+      - name: Build the packages and repo structure
         run: |
           export GNUPGHOME=$GITHUB_WORKSPACE/.gnupg
           mkdir -p $GNUPGHOME
           gpg --import <(echo "${{ secrets.GPG_KEY }}")
-        
-      - name: Build the packages and repo structure
-        run: |
+          gpg --list-keys
           python scripts/build_packages.py
           bash scripts/make_repo.sh
 
