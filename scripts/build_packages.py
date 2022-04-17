@@ -30,6 +30,11 @@ def generate_deb_control(config):
     
 if __name__ == '__main__':
     packages = get_packages()
+
+    # Check to make sure that the repo directory exists
+    if not os.path.isdir('repo'):
+        os.mkdir('repo')
+        
     for package, config in packages:
         print(f'Building {package}')
 
