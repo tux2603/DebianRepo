@@ -44,7 +44,7 @@ jobs:
       - name: Add and commit the changes
         run: |
           pwd
-          ls -la
+          ls -laR
           git add repo/dists/stable/main/binary-amd64/Packages
           git add repo/dists/stable/main/binary-amd64/Packages.gz
           git add repo/dists/stable/Release
